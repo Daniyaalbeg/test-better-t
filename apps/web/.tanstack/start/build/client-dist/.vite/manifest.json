@@ -1,0 +1,59 @@
+{
+  "../../../../../../../../../~start/default-client-entry.tsx": {
+    "file": "assets/main-gonQIlEZ.js",
+    "name": "main",
+    "src": "../../../../../../../../../~start/default-client-entry.tsx",
+    "isEntry": true,
+    "dynamicImports": [
+      "src/routes/login.tsx?tsr-split=component",
+      "src/routes/dashboard.tsx?tsr-split=component",
+      "src/routes/index.tsx?tsr-split=component"
+    ],
+    "css": [
+      "assets/index-CyDXY-ET.css"
+    ],
+    "assets": [
+      "assets/index-CyDXY-ET.css"
+    ]
+  },
+  "/Users/daniyaalbeg/Documents/Developer/milo/test/my-better-t-app/apps/web/src/index.css": {
+    "file": "assets/index-CyDXY-ET.css",
+    "src": "/Users/daniyaalbeg/Documents/Developer/milo/test/my-better-t-app/apps/web/src/index.css"
+  },
+  "_useQuery-D7DiFpC5.js": {
+    "file": "assets/useQuery-D7DiFpC5.js",
+    "name": "useQuery",
+    "imports": [
+      "../../../../../../../../../~start/default-client-entry.tsx"
+    ]
+  },
+  "src/routes/dashboard.tsx?tsr-split=component": {
+    "file": "assets/dashboard-CPQNN6CB.js",
+    "name": "dashboard",
+    "src": "src/routes/dashboard.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "../../../../../../../../../~start/default-client-entry.tsx",
+      "_useQuery-D7DiFpC5.js"
+    ]
+  },
+  "src/routes/index.tsx?tsr-split=component": {
+    "file": "assets/index-Qzsi1mvc.js",
+    "name": "index",
+    "src": "src/routes/index.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "../../../../../../../../../~start/default-client-entry.tsx",
+      "_useQuery-D7DiFpC5.js"
+    ]
+  },
+  "src/routes/login.tsx?tsr-split=component": {
+    "file": "assets/login-DRvEeh7t.js",
+    "name": "login",
+    "src": "src/routes/login.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "../../../../../../../../../~start/default-client-entry.tsx"
+    ]
+  }
+}

@@ -5,7 +5,7 @@
   "scripts": {
     "build": "wrangler deploy --dry-run",
     "check-types": "tsc --noEmit",
-    "compile": "bun build --compile --minify --sourcemap --bytecode ./src/index.ts --outfile server",
+    "compile": "tsc && tsc-alias",
     "dev": "wrangler dev --port=3000",
     "start": "wrangler dev",
     "deploy": "wrangler deploy",
