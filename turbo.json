@@ -2,12 +2,8 @@
 	"$schema": "https://turbo.build/schema.json",
 	"ui": "tui",
 	"tasks": {
-		"compile": {
-			"cache": false,
-			"outputs": ["dist/**"]
-		},
 		"build": {
-			"dependsOn": ["server#compile", "^build"],
+			"dependsOn": ["^build"],
 			"inputs": ["$TURBO_DEFAULT$", ".env*"],
 			"outputs": ["dist/**"]
 		},
