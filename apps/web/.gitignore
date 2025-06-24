@@ -19,6 +19,10 @@
 .vinxi
 .output
 .react-router/
+# TanStack and Nitro
+.tanstack/
+.nitro/
+
 
 # Deployment
 .vercel
