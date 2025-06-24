@@ -1,6 +1,6 @@
 {
   "../../../../../../../../../~start/default-client-entry.tsx": {
-    "file": "assets/main-gonQIlEZ.js",
+    "file": "assets/main-C6mZwCk-.js",
     "name": "main",
     "src": "../../../../../../../../../~start/default-client-entry.tsx",
     "isEntry": true,
@@ -20,35 +20,26 @@
     "file": "assets/index-CyDXY-ET.css",
     "src": "/Users/daniyaalbeg/Documents/Developer/milo/test/my-better-t-app/apps/web/src/index.css"
   },
-  "_useQuery-D7DiFpC5.js": {
-    "file": "assets/useQuery-D7DiFpC5.js",
-    "name": "useQuery",
-    "imports": [
-      "../../../../../../../../../~start/default-client-entry.tsx"
-    ]
-  },
   "src/routes/dashboard.tsx?tsr-split=component": {
-    "file": "assets/dashboard-CPQNN6CB.js",
+    "file": "assets/dashboard-CuNVJK2s.js",
     "name": "dashboard",
     "src": "src/routes/dashboard.tsx?tsr-split=component",
     "isDynamicEntry": true,
     "imports": [
-      "../../../../../../../../../~start/default-client-entry.tsx",
-      "_useQuery-D7DiFpC5.js"
+      "../../../../../../../../../~start/default-client-entry.tsx"
     ]
   },
   "src/routes/index.tsx?tsr-split=component": {
-    "file": "assets/index-Qzsi1mvc.js",
+    "file": "assets/index-CJ_s8BHa.js",
     "name": "index",
     "src": "src/routes/index.tsx?tsr-split=component",
     "isDynamicEntry": true,
     "imports": [
-      "../../../../../../../../../~start/default-client-entry.tsx",
-      "_useQuery-D7DiFpC5.js"
+      "../../../../../../../../../~start/default-client-entry.tsx"
     ]
   },
   "src/routes/login.tsx?tsr-split=component": {
-    "file": "assets/login-DRvEeh7t.js",
+    "file": "assets/login-Cjs8oham.js",
     "name": "login",
     "src": "src/routes/login.tsx?tsr-split=component",
     "isDynamicEntry": true,

@@ -1,4 +1,4 @@
-import{e as t,j as e}from"./main-gonQIlEZ.js";import{u as o}from"./useQuery-D7DiFpC5.js";const a=`
+import{j as e}from"./main-C6mZwCk-.js";const s=`
  ██████╗ ███████╗████████╗████████╗███████╗██████╗
  ██╔══██╗██╔════╝╚══██╔══╝╚══██╔══╝██╔════╝██╔══██╗
  ██████╔╝█████╗     ██║      ██║   █████╗  ██████╔╝
@@ -12,4 +12,4 @@ import{e as t,j as e}from"./main-gonQIlEZ.js";import{u as o}from"./useQuery-D7Di
     ██║       ╚════██║   ██║   ██╔══██║██║     ██╔═██╗
     ██║       ███████║   ██║   ██║  ██║╚██████╗██║  ██╗
     ╚═╝       ╚══════╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
- `,d=function(){const n=t(),s=o(n.healthCheck.queryOptions());return e.jsxs("div",{className:"container mx-auto max-w-3xl px-4 py-2",children:[e.jsx("pre",{className:"overflow-x-auto font-mono text-sm",children:a}),e.jsx("div",{className:"grid gap-6",children:e.jsxs("section",{className:"rounded-lg border p-4",children:[e.jsx("h2",{className:"mb-2 font-medium",children:"API Status"}),e.jsxs("div",{className:"flex items-center gap-2",children:[e.jsx("div",{className:`h-2 w-2 rounded-full ${s.data?"bg-green-500":"bg-red-500"}`}),e.jsx("span",{className:"text-muted-foreground text-sm",children:s.isLoading?"Checking...":s.data?"Connected":"Disconnected"})]})]})})]})};export{d as component};
+ `,t=function(){return e.jsxs("div",{className:"container mx-auto max-w-3xl px-4 py-2",children:[e.jsx("pre",{className:"overflow-x-auto font-mono text-sm",children:s}),e.jsx("div",{className:"grid gap-6",children:e.jsxs("section",{className:"rounded-lg border p-4",children:[e.jsx("h2",{className:"mb-2 font-medium",children:"API Status"}),e.jsx("div",{className:"flex items-center gap-2"})]})})]})};export{t as component};
